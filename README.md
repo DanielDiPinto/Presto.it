@@ -1,4 +1,4 @@
-
+(Ora non è attiva)
 
 Per impostare google AI:
 
